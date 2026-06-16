@@ -306,4 +306,6 @@ Notable styling patterns:
 
 ## License
 
+MIT © 2026 [Halenur Gürel](https://github.com/halenurgurel)
+
 This project was created as part of the [GoIT Full Stack Developer](https://goit.global/) program.
