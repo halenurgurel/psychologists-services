@@ -30,7 +30,7 @@ Psychologists Services is a full-stack Next.js application that bridges clients 
 
 ## Live Demo
 
-> [Click Here!](https://hales-psychologist-services.vercel.app)
+> [Psychologist Services](https://hales-psychologist-services.vercel.app)
 
 ---
 
